@@ -10,7 +10,7 @@
 ```ts
 // About Me 🚀
 const aditya = {
-  username: "AdityaGawande10",
+  username: "adi-gawande",
   fullStack: ["React", "Next.js", "Node.js", "NestJS"],
   currentlyLearning: ["System Design", "Docker", "AWS"],
   codeQuote: "If it works, don't touch it... unless you're writing tests.",
@@ -51,8 +51,8 @@ Others:   [ Figma, JWT, Bcrypt, Linux ]
 ## 📂 Recent Projects
 
 - 🎯 [StudyNotion Online Learning Platform](https://github.com/adi-gawande/StudyNotion) — React + MongoDB + ExpressJs + NodeJs
-- 🔐 [Authentication System](https://authentication-wahd.onrender.com/) — NodeJS + JWT + Refresh Tokens  
-- 🌐 [Portfolio Site](https://abhi-develope.github.io/My-Personal-Portfolio/) — Static React portfolio  
+- 🔐 [Airbnb Clone](wanderlust-fshd.onrender.com) — NodeJS + JWT + Refresh Tokens  
+- 🌐 [Portfolio Site](animated-portfolio-web.vercel.app/) — Static React portfolio  
 
 ---
 
