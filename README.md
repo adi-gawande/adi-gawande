@@ -51,8 +51,8 @@ Others:   [ Figma, JWT, Bcrypt, Linux ]
 ## 📂 Recent Projects
 
 - 🎯 [StudyNotion Online Learning Platform](https://github.com/adi-gawande/StudyNotion) — React + MongoDB + ExpressJs + NodeJs
-- 🔐 [Airbnb Clone](wanderlust-fshd.onrender.com) — NodeJS + JWT + Refresh Tokens  
-- 🌐 [Portfolio Site](animated-portfolio-web.vercel.app/) — Static React portfolio  
+- 🔐 [Airbnb Clone](https://github.com/adi-gawande/Airbnb-Clone) —React + MongoDB + ExpressJs + NodeJs+ JWT + Refresh Tokens  
+- 🌐 [Portfolio Site](https://github.com/adi-gawande/Animated-Portfolio-Web) — Stactic Nextjs portfolio  
 
 ---
 
