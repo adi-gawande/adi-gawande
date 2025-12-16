@@ -1,286 +1,477 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Aditya Gawande
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Gawande&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;300%2B+LeetCode+Problems+Solved;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hey!+I'm+Aditya+Gawande+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Specialist+%E2%9A%A1;300%2B+LeetCode+Problems+%F0%9F%94%A5;Building+Scalable+Applications+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdityaGawande10)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGawande10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/AdityaGawande10)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagawande464@gmail.com)
+<a href="https://linkedin.com/in/AdityaGawande10">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AdityaGawande10">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/AdityaGawande10">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:adityagawande464@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
 ```javascript
 const aditya = {
-    role: "Full Stack Developer",
+    role: "Full Stack Developer 💻",
     location: "Wardha, Maharashtra 🇮🇳",
-    workingOn: "Healthcare & Ed-Tech Platforms",
-    learning: ["Cloud Integration", "System Design", "AI Integration"],
-    currentCompany: "Netline Technologies",
-    education: "B.E. Computer Science | CGPA: 7.95",
-    leetCode: "300+ Problems Solved 🔥",
+    currentlyWorking: "Netline Technologies 🏢",
+    workingOn: "Healthcare & Ed-Tech Platforms 🏥📚",
+    learning: ["Cloud Integration ☁️", "System Design 🎨", "AI Integration 🤖"],
+    education: "B.E. Computer Science | CGPA: 7.95 🎓",
+    achievements: "300+ LeetCode Problems Solved 🔥",
     askMeAbout: ["React", "Node.js", "MongoDB", "REST APIs"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I debug with console.log() and I'm not ashamed! 😄",
+    lifePhilosophy: "Code, Debug, Deploy, Repeat! 🔄"
 };
 ```
 
 <br clear="both">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
-### 💻 Frontend
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Database
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📝 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Experience
-
-<img align="right" alt="Work" width="300" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
-
-### 🏢 Netline Technologies
-**Web Development Intern (MERN)** | July 2025 - Present
-
-🚀 Improved mobile responsiveness by **35%**  
-🏥 Built healthcare consultants platform  
-⚡ Optimized deployment workflows with Git/GitHub  
-💻 Tech: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 StudyNotion
-**MERN Stack Ed-Tech Platform**
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
-🎯 JWT Authentication & Role-based Access  
-💳 Razorpay Payment Integration  
-☁️ Cloudinary Media Optimization  
-⚡ **25% faster load times**
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGawande10/StudyNotion)
-
-</td>
-<td width="50%">
-
-### 🏨 Wanderlust
-**Hotel Booking Platform (Airbnb Clone)**
-
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="400">
-
-🗺️ Mapbox API Integration  
-🔐 Secure Authentication System  
-📝 CRUD Operations for Hotels & Reviews  
-⚡ **40% faster load times**
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGawande10/Airbnb-Clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Pneumonia Detection System
-**AI-Powered Medical Diagnosis**
-
-<img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" width="400">
-
-🤖 Generative AI for Disease Classification  
-📊 Chest X-ray Image Analysis  
-👨‍⚕️ Doctor Recommendation System  
-🎯 Enhanced Treatment Decision Support
-
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaGawande10/Pneumonia-Detection-Using-Genai)
-
-</td>
-<td width="50%">
-
-### 🚀 More Projects Coming Soon...
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
-
-Stay tuned for more amazing projects!
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/>
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/>
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/>
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React"/>
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/>
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express"/>
+      <br /><strong>Express</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/>
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL"/>
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind"/>
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/>
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git"/>
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/>
+      <br /><strong>GitHub</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel"/>
+      <br /><strong>Vercel</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman"/>
+      <br /><strong>Postman</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/>
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python"/>
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/>
+      <br /><strong>VS Code</strong>
+    </td>
+    <td align="center" width="140" height="112.43">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="65px" alt="Cloudflare"/>
+      <br /><strong>Cloudflare</strong>
+    </td>
+  </tr>
 </table>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Experience
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+
+</div>
+
+### 🏢 Netline Technologies | Web Development Intern (MERN)
+**📅 July 2025 - Present** | 📍 Nagpur, India
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+- 🚀 Improved mobile responsiveness by **35%** on company's main website
+- 🏥 Built full-featured healthcare consultants platform
+- ⚡ Implemented REST APIs and integrated payment gateways
+- 💻 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+- 🔄 Collaborated using Git/GitHub for seamless deployments
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Featured Projects
+
+<div align="center">
+  
+<a href="https://github.com/AdityaGawande10/StudyNotion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaGawande10&repo=StudyNotion&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/AdityaGawande10/Airbnb-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaGawande10&repo=Airbnb-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+<br/>
+
+<details open>
+<summary><h3>📚 StudyNotion – Online Learning Platform</h3></summary>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+</div>
+
+**🛠️ Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+
+**✨ Key Features:**
+- 🔐 JWT Authentication with OTP verification
+- 👥 Role-based access control (Student/Instructor/Admin)
+- 💳 Razorpay payment gateway integration
+- ☁️ Cloudinary for optimized media uploads
+- 📊 Course management and rating system
+- ⚡ **25% faster load times** through optimization
+
+**🎯 Impact:** Built a production-ready Ed-Tech platform enabling seamless online learning experience
+
+<a href="https://github.com/AdityaGawande10/StudyNotion">
+  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>🏨 Wanderlust – Hotel Booking Platform</h3></summary>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="600">
+</div>
+
+**🛠️ Tech Stack:** MERN + Mapbox API
+
+**✨ Key Features:**
+- 🔐 Secure user authentication & authorization
+- 🏨 Full CRUD operations for hotel listings
+- 🗺️ Interactive maps with Mapbox integration
+- ⭐ Review and rating system
+- 📱 Fully responsive design
+- ⚡ **40% faster load times** with optimized rendering
+
+**🎯 Impact:** Created an Airbnb-inspired platform with seamless booking experience
+
+<a href="https://github.com/AdityaGawande10/Airbnb-Clone">
+  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
+
+<br/>
+
+<details>
+<summary><h3>🏥 Pneumonia Detection System</h3></summary>
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" width="600">
+</div>
+
+**🛠️ Tech Stack:** Python, PHP, SQL, HTML, CSS, Generative AI
+
+**✨ Key Features:**
+- 🤖 AI-powered chest X-ray analysis
+- 🎯 Disease stage classification using GenAI
+- 👨‍⚕️ Intelligent doctor recommendation system
+- 📊 Treatment decision support
+- 💾 Patient data management
+
+**🎯 Impact:** Enhanced medical diagnosis accuracy and treatment planning
+
+<a href="https://github.com/AdityaGawande10/Pneumonia-Detection-Using-Genai">
+  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaGawande10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdityaGawande10&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Aditya Gawande github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGawande10&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Aditya Gawande github streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGawande10&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGawande10&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaGawande10&theme=github_dark" width="100%" alt="Profile Details"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
-<br><strong>300+ Problems</strong>
-<br>LeetCode Master
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47195d43-379b-4f80-b3c3-452217a2da92.gif" width="100">
-<br><strong>Hackathon Finalist</strong>
-<br>Techno-Vision
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-<br><strong>Production Apps</strong>
-<br>Real-world Impact
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="150" height="150">
+      <br/><br/>
+      <strong>🔥 LeetCode Master</strong>
+      <br/><br/>
+      300+ Problems Solved
+      <br/>
+      Algorithmic Excellence
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="150" height="150">
+      <br/><br/>
+      <strong>🏆 Hackathon Finalist</strong>
+      <br/><br/>
+      Techno-Vision 2024
+      <br/>
+      Innovation & Teamwork
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="150" height="150">
+      <br/><br/>
+      <strong>🚀 Production Ready</strong>
+      <br/><br/>
+      Multiple Live Projects
+      <br/>
+      Real-world Impact
+    </td>
+  </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
----
-
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adi-gawande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-gawande&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-gawande&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adi-gawande&theme=tokyo-night&hide_border=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adi-gawande&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  
+**📈 Problem Solving:** Consistent LeetCode contributor with strong DSA foundation  
+**🎯 Project Impact:** Built applications serving real users with measurable improvements  
+**🤝 Team Player:** Collaborated effectively in internship and hackathon environments  
+**📚 Continuous Learner:** Actively upskilling in Cloud, System Design, and AI technologies
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Connect With Me
+## 🎮 Coding Profiles
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+<a href="https://leetcode.com/AdityaGawande10">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/AdityaGawande10)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AdityaGawande10)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/AdityaGawande10)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:adityagawande464@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--7038392386-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+917038392386)
-
-<br>
-
-**📍 Wardha, Maharashtra, India**
+<img src="https://leetcard.jacoblin.cool/AdityaGawande10?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 
 </div>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<br/>
+
+## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 💭 Random Dev Quote
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="400" alt="Coding">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/><br/>
 
-<br>
+<a href="https://linkedin.com/in/AdityaGawande10">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/AdityaGawande10">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:adityagawande464@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="tel:+917038392386">
+  <img src="https://img.shields.io/badge/Phone-+91--7038392386-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-### 😂 Here's a Dev Joke for You
+<br/><br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+**📍 Location:** Wardha, Maharashtra, India  
+**💼 Open to:** Full-time opportunities, Freelance projects, Collaborations  
+**🎯 Interests:** Web Development, Cloud Computing, AI Integration
 
-<br>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<br/>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ⚡ *"Talk is cheap. Show me the code."* – Linus Torvalds
+<br/>
 
-<br>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaGawande10&color=blueviolet&style=for-the-badge)
-[![wakatime](https://wakatime.com/badge/user/AdityaGawande10.svg?style=for-the-badge)](https://wakatime.com/@AdityaGawande10)
+### 💭 Developer Quote
 
-<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Meme"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+
+<br/><br/>
+
+### ⚡ *"First, solve the problem. Then, write the code."* – John Johnson
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaGawande10&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AdityaGawande10?style=for-the-badge&color=0e75b6)
+![GitHub Stars](https://img.shields.io/github/stars/AdityaGawande10?style=for-the-badge&color=0e75b6)
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ### 🚀 Thanks for visiting! Let's build something amazing together! 
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </div>
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
