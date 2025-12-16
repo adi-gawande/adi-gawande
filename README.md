@@ -166,7 +166,7 @@ const aditya = {
 
 </div>
 
-### 🏢 Netline Technologies | Web Development Intern (MERN)
+### 🏢 Amika Software | Web Development Intern (MERN)
 **📅 July 2025 - Present** | 📍 Nagpur, India
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
@@ -187,11 +187,11 @@ const aditya = {
 
 <div align="center">
   
-<a href="https://github.com/AdityaGawande10/StudyNotion">
+<a href="https://github.com/adi-gawande/StudyNotion">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi-gawande&repo=StudyNotion&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/AdityaGawande10/Airbnb-Clone">
+<a href="https://github.com/adi-gawande/Airbnb-Clone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi-gawande&repo=Airbnb-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
