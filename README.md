@@ -207,17 +207,17 @@ Stay tuned for more amazing projects!
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaGawande10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGawande10&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adi-gawande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-gawande&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGawande10&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGawande10&theme=tokyo-night&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-gawande&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adi-gawande&theme=tokyo-night&hide_border=true" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaGawande10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=adi-gawande&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
