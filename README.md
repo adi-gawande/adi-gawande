@@ -188,11 +188,11 @@ const aditya = {
 <div align="center">
   
 <a href="https://github.com/AdityaGawande10/StudyNotion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaGawande10&repo=StudyNotion&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi-gawande&repo=StudyNotion&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/AdityaGawande10/Airbnb-Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaGawande10&repo=Airbnb-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi-gawande&repo=Airbnb-Clone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -219,7 +219,7 @@ const aditya = {
 
 **🎯 Impact:** Built a production-ready Ed-Tech platform enabling seamless online learning experience
 
-<a href="https://github.com/AdityaGawande10/StudyNotion">
+<a href="https://github.com/adi-gawande/StudyNotion">
   <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -247,7 +247,7 @@ const aditya = {
 
 **🎯 Impact:** Created an Airbnb-inspired platform with seamless booking experience
 
-<a href="https://github.com/AdityaGawande10/Airbnb-Clone">
+<a href="https://github.com/adi-gawande/Airbnb-Clone">
   <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -274,7 +274,7 @@ const aditya = {
 
 **🎯 Impact:** Enhanced medical diagnosis accuracy and treatment planning
 
-<a href="https://github.com/AdityaGawande10/Pneumonia-Detection-Using-Genai">
+<a href="https://github.com/adi-gawande/Pneumonia-Detection-Using-Genai">
   <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -290,28 +290,28 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaGawande10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=adi-gawande&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdityaGawande10&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Aditya Gawande github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGawande10&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Aditya Gawande github streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adi-gawande&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Aditya Gawande github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-gawande&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Aditya Gawande github streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGawande10&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGawande10&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-gawande&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adi-gawande&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaGawande10&theme=github_dark" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-gawande&theme=github_dark" width="100%" alt="Profile Details"/>
 </div>
 
 <br/>
@@ -406,7 +406,7 @@ const aditya = {
 <a href="https://linkedin.com/in/AdityaGawande10">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/AdityaGawande10">
+<a href="https://github.com/adi-gawande">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:adityagawande464@gmail.com">
