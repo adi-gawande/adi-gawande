@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/AdityaGawande10">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/AdityaGawande10">
+<a href="https://github.com/adi-gawande">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/AdityaGawande10">
